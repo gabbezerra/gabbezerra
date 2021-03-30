@@ -22,7 +22,6 @@
 [<img align="left" alt="HTML5" width="90px" src="https://thiagoalexandria.com.br/assets/img/nginx-logo.png">][nginx]
 [<img align="left" alt="HTML5" width="40px" src="https://thiagoalexandria.com.br/assets/img/apache-logo.png">][apache]
 [<img align="left" alt="HTML5" width="60px" src="https://thiagoalexandria.com.br/assets/img/bash-logo.png">][bash]
-[<img align="left" alt="HTML5" width="60px" src="https://thiagoalexandria.com.br/assets/img/python-logo.png">][python]
 [<img align="left" alt="HTML5" width="60px" src="https://thiagoalexandria.com.br/assets/img/terraform-logo.png">][terraform]
 [<img align="left" alt="HTML5" width="60px" src="https://thiagoalexandria.com.br/assets/img/docker-logo.png">][docker]
 [<img align="left" alt="HTML5" width="80px" src="https://thiagoalexandria.com.br/assets/img/jenkins-logo.png">][jenkins]
