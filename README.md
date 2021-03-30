@@ -6,7 +6,7 @@
  - ⚡ Currently learning Jenkins and Terraform
  - 😄 In my free time I usually play games, watch series and stay with my family
  
-[![Github Badge](https://img.shields.io/badge/-thiagoalexandria-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagoalexandria)](https://github.com/gabbezerra)
+[![Github Badge](https://img.shields.io/badge/-thiagoalexandria-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabbezerra)](https://github.com/gabbezerra)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-bezerra-19744479/)](https://www.linkedin.com/in/gabriel-bezerra-19744479/)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielbl258@gmail.com)](mailto:gabrielbl258@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@thiagoalexandria-F77737?style=flat-square&labelColor=F77737&logo=instagram&logoColor=white&link=https://www.instagram.com/gabbezerra/)](https://www.instagram.com/gabbezerra/)
