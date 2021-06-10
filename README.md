@@ -4,7 +4,7 @@
 
  - 📌 Skills: Linux, AWS, Bash, Webservers 
  - ⚡ Currently learning Jenkins and Terraform
- - 😄 In my free time I usually play games, watch series and stay with my family
+ - 😄 In my free time, I usually play games, watch series and learn new things
  
 [![Github Badge](https://img.shields.io/badge/-gabbezerra-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabbezerra)](https://github.com/gabbezerra)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-bezerra-19744479/)](https://www.linkedin.com/in/gabriel-bezerra-19744479/)
