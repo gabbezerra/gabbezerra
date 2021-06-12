@@ -13,13 +13,13 @@
 
  <div style="display: inline_block"><br>
     <h3>Techs:</h3>
-  <img align="center" alt="TH-Nginx" height="70" width="90" src="https://thiagoalexandria.com.br/assets/img/nginx-logo.png">
-  <img align="center" alt="TH-Apache" height="60" width="60" src="https://thiagoalexandria.com.br/assets/img/apache-logo.png">
-  <img align="center" alt="TH-Bash" height="50" width="60" src="https://thiagoalexandria.com.br/assets/img/bash-logo.png">
-  <img align="center" alt="TH-Terraform" height="50" width="60" src="https://thiagoalexandria.com.br/assets/img/terraform-logo.png">
-  <img align="center" alt="TH-Jenkins" height="50" width="60" src="https://thiagoalexandria.com.br/assets/img/jenkins-logo.png">
-  <img align="center" alt="TH-Docker" height="50" width="60" src="https://thiagoalexandria.com.br/assets/img/docker-logo.png">
-  <img align="center" alt="TH-Kubernetes" height="50" width="60" src="https://www.logo.wine/a/logo/Kubernetes/Kubernetes-Logo.wine.svg">
+  <img align="center" alt="TH-Nginx" height="50" width="70" src="https://thiagoalexandria.com.br/assets/img/nginx-logo.png">
+  <img align="center" alt="TH-Apache" height="40" width="40" src="https://thiagoalexandria.com.br/assets/img/apache-logo.png">
+  <img align="center" alt="TH-Bash" height="30" width="40" src="https://thiagoalexandria.com.br/assets/img/bash-logo.png">
+  <img align="center" alt="TH-Terraform" height="30" width="40" src="https://thiagoalexandria.com.br/assets/img/terraform-logo.png">
+  <img align="center" alt="TH-Jenkins" height="30" width="40" src="https://thiagoalexandria.com.br/assets/img/jenkins-logo.png">
+  <img align="center" alt="TH-Docker" height="30" width="40" src="https://thiagoalexandria.com.br/assets/img/docker-logo.png">
+  <img align="center" alt="TH-Kubernetes" height="30" width="40" src="https://www.logo.wine/a/logo/Kubernetes/Kubernetes-Logo.wine.svg">
 </div>
 
  ---
