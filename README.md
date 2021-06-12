@@ -7,7 +7,6 @@
  - 😄 In my free time, I usually play games, watch series and learn new things
 
 <div class="box">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabbezerra&show_icons=true&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbezerra&layout=compact&langs_count=16&theme=dark" />
 </div>
 
