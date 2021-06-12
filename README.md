@@ -29,5 +29,5 @@
   <a href="https://instagram.com/gabbezerra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: gabrielbl258@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-bezerra-19744479" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://https://twitter.com/b3zoro" target="_blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fb3zoro" target="_blank"></a>
+  <a href="https://https://twitter.com/b3zoro" target="_blank"><img src="https://img.shields.io/twitter/url?color=white&logoColor=white&style=social&url=https%3A%2F%2Ftwitter.com%2Fb3zoro" target="_blank"></a>
 </div><br>
