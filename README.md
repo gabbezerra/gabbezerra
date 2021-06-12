@@ -13,13 +13,13 @@
 
  <div style="display: inline_block"><br>
  <h3>Techs:</h3>
-[<img align="left" alt="HTML5" width="90px" src="https://thiagoalexandria.com.br/assets/img/nginx-logo.png">
-[<img align="left" alt="HTML5" width="40px" src="https://thiagoalexandria.com.br/assets/img/apache-logo.png">
-[<img align="left" alt="HTML5" width="60px" src="https://thiagoalexandria.com.br/assets/img/bash-logo.png">
-[<img align="left" alt="HTML5" width="60px" src="https://thiagoalexandria.com.br/assets/img/terraform-logo.png">
-[<img align="left" alt="HTML5" width="60px" src="https://thiagoalexandria.com.br/assets/img/docker-logo.png">
-[<img align="left" alt="HTML5" width="80px" src="https://thiagoalexandria.com.br/assets/img/jenkins-logo.png">
-[<img align="left" alt="HTML5" width="80px" src="https://www.logo.wine/a/logo/Kubernetes/Kubernetes-Logo.wine.svg">
+<img align="left" alt="HTML5" width="90px" src="https://thiagoalexandria.com.br/assets/img/nginx-logo.png">
+<img align="left" alt="HTML5" width="40px" src="https://thiagoalexandria.com.br/assets/img/apache-logo.png">
+<img align="left" alt="HTML5" width="60px" src="https://thiagoalexandria.com.br/assets/img/bash-logo.png">
+<img align="left" alt="HTML5" width="60px" src="https://thiagoalexandria.com.br/assets/img/terraform-logo.png">
+<img align="left" alt="HTML5" width="60px" src="https://thiagoalexandria.com.br/assets/img/docker-logo.png">
+<img align="left" alt="HTML5" width="80px" src="https://thiagoalexandria.com.br/assets/img/jenkins-logo.png">
+<img align="left" alt="HTML5" width="80px" src="https://www.logo.wine/a/logo/Kubernetes/Kubernetes-Logo.wine.svg">
 </div>
 
 ---
