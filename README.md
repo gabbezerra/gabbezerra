@@ -20,7 +20,7 @@
   <img align="center" alt="TH-Jenkins" height="60" width="70" src="https://thiagoalexandria.com.br/assets/img/jenkins-logo.png">
   <img align="center" alt="TH-Docker" height="60" width="70" src="https://thiagoalexandria.com.br/assets/img/docker-logo.png">
   <img align="center" alt="TH-Kubernetes" height="80" width="90" src="https://www.logo.wine/a/logo/Kubernetes/Kubernetes-Logo.wine.svg">
-  <img align="center" alt="TH-Linux" height="80" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
+  <img align="center" alt="TH-Linux" height="70" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
 </div>
 
   ---
