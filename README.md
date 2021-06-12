@@ -6,10 +6,10 @@
  - ⚡ Currently learning Jenkins, Kubernetes and Terraform
  - 😄 In my free time, I usually play games, watch series and learn new things
 
-<div>
+<div style="display: inline_block"><br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabbezerra&show_icons=true&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbezerra&layout=compact&langs_count=16&theme=dark" />
-<div>
+</div>
 
  <div style="display: inline_block"><br>
     <h3>Techs:</h3>
