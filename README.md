@@ -19,7 +19,7 @@
 [<img align="left" alt="HTML5" width="60px" src="https://thiagoalexandria.com.br/assets/img/terraform-logo.png">
 [<img align="left" alt="HTML5" width="60px" src="https://thiagoalexandria.com.br/assets/img/docker-logo.png">
 [<img align="left" alt="HTML5" width="80px" src="https://thiagoalexandria.com.br/assets/img/jenkins-logo.png">
-[<img align="left" alt="HTML5" width="80px" src="https://www.logo.wine/a/logo/Kubernetes/Kubernetes-Logo.wine.svg">]
+[<img align="left" alt="HTML5" width="80px" src="https://www.logo.wine/a/logo/Kubernetes/Kubernetes-Logo.wine.svg">
 </div>
 
 ---
