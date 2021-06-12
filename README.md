@@ -6,10 +6,21 @@
  - ⚡ Currently learning Jenkins, Kubernetes and Terraform
  - 😄 In my free time, I usually play games, watch series and learn new things
 
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabbezerra&show_icons=true&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbezerra&layout=compact&langs_count=16&theme=dark" />
-<div>
+<div class="box">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabbezerra&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbezerra&layout=compact&langs_count=16&theme=dark" />
+</div>
+
+<div class="box">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbezerra&layout=compact&langs_count=16&theme=dark" />
+</div>
+
+<style>
+div.box {
+	width: 150px;
+	display: inline-block;
+}
+</style>
 
  <div style="display: inline_block"><br>
     <h3>Techs:</h3>
