@@ -1,8 +1,8 @@
 # Gabriel Bezerra :man_technologist:
 
-### Hello! 👋 Welcome to my profile
-
 <img align="right" alt="GIF" src="https://github.com/gabbezerra/gabbezerra/blob/ajuste/code.gif?raw=true" width="500" height="320" />
+
+### Hello! 👋 Welcome to my profile
 
  - 📌 Skills: Linux, AWS, Bash, Webservers, Docker 
  - ⚡ Currently learning Jenkins, Kubernetes and Terraform
