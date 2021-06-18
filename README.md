@@ -1,6 +1,6 @@
 # Gabriel Bezerra :man_technologist:
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/gabbezerra/gabbezerra/blob/ajuste/code.gif?raw=true" width="500" height="320" />
 
 ### Hello! 👋 Welcome to my profile
 
