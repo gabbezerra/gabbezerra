@@ -2,8 +2,7 @@
 
 ### Hello! 👋 Welcome to my profile
 
- - 📌 Skills: Linux, AWS, Bash, Webservers, Docker 
- - ⚡ Currently learning Jenkins, Kubernetes and Terraform
+ - Kubernetes | SRE | AWS | DevOps
  - 😄 In my free time, I usually play games, watch series and learn new things
 
 <div style="display: inline_block">
