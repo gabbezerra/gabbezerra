@@ -22,6 +22,12 @@
         <img align="center" alt="TH-Kubernetes" height="80" width="90" src="https://www.logo.wine/a/logo/Kubernetes/Kubernetes-Logo.wine.svg">
 </div>
 
+ <div style="display: inline_block"><br>
+    <h3>CERTIFICATIONS:</h3>
+        <img align="center" alt="TH-AWS Certified Cloud Practitioner" height="60" width="70" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
+        <img align="center" alt="TH-AWS Certified Solutions Architect – Associate" height="50" width="60" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
+        <img align="center" alt="TH-AWS Certified Solutions Architect – Professional" height="80" width="110" src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png">
+</div>
   ---
 
 <div> 
