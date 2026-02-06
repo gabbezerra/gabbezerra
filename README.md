@@ -5,10 +5,10 @@
  - Kubernetes | SRE | AWS | DevOps
  - 😄 In my free time, I usually play games, watch series and learn new things
 
-<div style="display: inline_block">
+<!-- <div style="display: inline_block">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabbezerra&show_icons=true&theme=dark"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbezerra&layout=compact&langs_count=16&theme=dark" />
-</div>
+</div> -->
 
  <div style="display: inline_block"><br>
     <h3>Techs:</h3>
